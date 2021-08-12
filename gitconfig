@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rober2miguel@gmail.com
+	name = Miguel Vela
